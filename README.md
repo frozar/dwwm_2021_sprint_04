@@ -12,16 +12,16 @@ Chaque jour, vous aurez un défi sur Javascript, vous devez faire de la document
 
 | Day | Chapter |
 |:---:|:---:|
-| 01 | Introduction, Data Types, Booleans, Operators, Date, Les conditions  |
-| 02 | Arrays, Loops, Functions, Objets |
-| 03 | Higher Order Functions , Sets & Maps, Destructuring & Spreading, Regular Expressions |
-| 04 | Console Object Methods, Error handling, Classes, JSON |
-| 05 | Web Storages, Promises, Closure |
-| 06 | Writing Clean Code, BOM & DOM, Manipulating DOM Object, Event Listners |
-| 07 | Recap, Mini Project |
-| 08 | ES06+, Data Structures |
-| 09 | Release, Final Projects |
-| 10 | Final Projects |
+| [01](./day_01/day_01.md) | Introduction, Data Types, Booleans, Operators, Date, Les conditions  |
+| [02](./day_02/day_02.md) | Arrays, Loops, Functions, Objets |
+| [03](./day_03/day_03.md) | Higher Order Functions , Sets & Maps, Destructuring & Spreading, Regular Expressions |
+| [04](./day_04/day_04.md) | Console Object Methods, Error handling, Classes, JSON |
+| [05](./day_05/day_05.md) | Web Storages, Promises, Closure |
+| [06](./day_06/day_06.md) | Writing Clean Code, BOM & DOM, Manipulating DOM Object, Event Listners |
+| [07](./day_07/day_07.md) | Recap, Mini Project |
+| [08](./day_08/day_08.md) | ES06+, Data Structures |
+| [09](./day_09/day_09.md) | Release, Final Projects |
+| [10](./day_10/day_10.md) | Final Projects |
 | ** | OOP |
 
 Best of luck Coding Guild! 🚀

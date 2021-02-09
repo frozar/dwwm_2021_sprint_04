@@ -79,7 +79,7 @@ Vous avez 30 ans.
     5 1 5 25 125
     ```
 
-12.  Utilisez __substr__ pour slicer la phrase __because because because__ de la phrase suivante: __'You cannot end a sentence with because because because is a conjunction'__
+12. Utilisez __substr__ pour slicer la phrase __because because because__ de la phrase suivante: __'You cannot end a sentence with because because because is a conjunction'__
 
 ### Data Type --> Level03
 

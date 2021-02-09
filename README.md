@@ -22,6 +22,6 @@ Chaque jour, vous aurez un défi sur Javascript, vous devez faire de la document
 | [08](./day_08/day_08.md) | ES06+, Data Structures |
 | [09](./day_09/day_09.md) | Release, Final Projects |
 | [10](./day_10/day_10.md) | Final Projects |
-| ** | OOP |
+| ** | OOP, AJAX, JQUERY |
 
 Best of luck Coding Guild! 🚀

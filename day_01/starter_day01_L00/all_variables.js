@@ -1,0 +1,1 @@
+// *****Exercices: Data Types --> Level00 [6, 7, 8, 9, 10]*****

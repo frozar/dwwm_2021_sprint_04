@@ -95,6 +95,74 @@ const webTechs = [
     ```sh
     ["HTML", "CSS", "JS", "VueJs", "VueX", "Node", "Express", "MongoDB"]
     ```
+## Loops --> Level00
+
+1. Itérer de 0 à 10 en utilisant la boucle **for**, **while** et **do while**
+2. Itérez 10 à 0 en utilisant la boucle **for**, **while** et **do while**
+3. Itérer 0 à n en utilisant la boucle **for**
+4. Écrivez une boucle qui crée le modèle suivant à l'aide de console.log(): 
+
+   ```js
+       #
+       ##
+       ###
+       ####
+       #####
+       ######
+       #######
+   ```
+
+5. Utilisez une boucle pour affichez le modèle suivant à l'aide de console.log():
+
+   ```sh
+   0 x 0 = 0
+   1 x 1 = 1
+   2 x 2 = 4
+   3 x 3 = 9
+   4 x 4 = 16
+   5 x 5 = 25
+   6 x 6 = 36
+   7 x 7 = 49
+   8 x 8 = 64
+   9 x 9 = 81
+   10 x 10 = 100
+   ```
+
+6. Utilisez une boucle pour affichez le modèle suivant à l'aide de console.log():
+
+   ```sh
+    i    i^2   i^3
+    0    0     0
+    1    1     1
+    2    4     8
+    3    9     27
+    4    16    64
+    5    25    125
+    6    36    216
+    7    49    343
+    8    64    512
+    9    81    729
+    10   100   1000
+   ```
+
+7. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que des nombres pairs
+8. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres impairs
+9. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres premiers
+10. Utilisez la boucle **for** pour parcourir de 0 à 100 et afficher la somme de tous les nombres.
+
+    ```sh
+    La somme de tous les nombres de 0 à 100 est 5050.
+    ```
+
+11. Utilisez la boucle **for** pour itérer de 0 à 100 et afficher la somme de tous les nombres pairs et la somme de toutes les nombres impairs.
+
+    ```sh
+    La somme de tous les nombres pairs de 0 à 100 est 2550. Et la somme de tous les nombres impairs est 0 à 100 est 2500.
+    ```
+
+## Loops --> Level01
+
+
 
 🎉 CONGRATULATIONS ! 🎉
 

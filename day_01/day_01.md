@@ -68,22 +68,7 @@ Vous avez 30 ans.
 7. Générer un nombre aléatoire entre 0 et 100 inclusivement.
 8. Générer un nombre aléatoire entre 50 et 100 inclusivement.
 9. Générez un nombre aléatoire compris entre 0 et 255 inclusivement. 
-10. Accédez aux caractères de chaîne 'JavaScript' à l'aide d'un nombre aléatoire.
-11. Utilisez console.log() et les caractères d'échappement pour imprimer le modèle suivant.
-
-    ```js
-    1 1 1 1 1
-    2 1 2 4 8
-    3 1 3 9 27
-    4 1 4 16 64
-    5 1 5 25 125
-    ```
-
-12. Utilisez __substr__ pour slicer la phrase __because because because__ de la phrase suivante: __'You cannot end a sentence with because because because is a conjunction'__
-
-### Data Type --> Level03
-
-1. Calculez le revenu annuel total de la personne en extrayant les chiffres du texte suivant. "Il gagne 5000 Dhs de salaire par mois, 10000 Dhs de bonus annuel, 15000 Dhs de cours en ligne par mois." 
+10. Utilisez __substr__ pour slicer la phrase __because because because__ de la phrase suivante: __'You cannot end a sentence with because because because is a conjunction'__
 
 ### Boolean & Dates --> Level01
 
@@ -174,14 +159,7 @@ Vous avez 30 ans.
 
 ### Exercices Aléatoires --> Level04
 
-1. Comparez les valeurs de myAge et yourAge en utilisant if … else. Sur la base de la comparaison et affichez le résultat dans la console en indiquant qui est le plus âgé (moi ou toi). Utilisez prompt(“Enter votre age:”) pour obtenir l'âge comme entrée.
-
-   ```sh
-   Enter votre age: 30
-   Tu as 4 ans de plus que moi.
-   ```
-
-2. Si a est supérieur à b return 'a est superieur à b' sinon 'a est inferieur à b'. Utilisez deux méthodes
+1. Si a est supérieur à b return 'a est superieur à b' sinon 'a est inferieur à b'. Utilisez deux méthodes
     - if  else
     - ternary operator.
 
@@ -194,7 +172,7 @@ Vous avez 30 ans.
       4 est supérieur à 3
     ```
 
-3. Les nombres pairs sont divisibles par 2 et le reste est zéro. Comment vérifier si un nombre est pair ou n'utilise pas JavaScript?
+2. Les nombres pairs sont divisibles par 2 et le reste est zéro. Comment vérifier si un nombre est pair ou n'utilise pas JavaScript?
 
     ```sh
     Enter un nombre: 2
@@ -220,22 +198,6 @@ Vous avez 30 ans.
         - Mars, avril ou mai, la saison est le printemps
         - Juin, juillet ou août, la saison est l'été 
 
-3. Vérifiez si un jour est un jour de week-end ou un jour ouvrable. Votre script prendra un jour comme entrée.
-
-```sh
-    Quel jour sommes nous aujourd\'hui? Samedi
-    Saturday est un weekend.
-
-    Quel jour sommes nous aujourd\'hui? samEdI
-    Saturday est un weekend.
-
-    Quel jour sommes nous aujourd\'hui? Vendredi
-    Friday est un working day.
-
-    Quel jour sommes nous aujourd\'hui? VeNdREdi
-    Friday est un working day.
-  ```
-
 ### Exercices Aléatoires --> Level03
 
 1. Ecrire un programme qui indique le nombre de jours dans un mois.
@@ -253,9 +215,6 @@ Vous avez 30 ans.
     Enter un mois: FEvrier
     Fevrier a 28 jours.
   ```
-
-2. Écrivez un programme qui indique le nombre de jours dans un mois, considérez maintenant une année bissextile. 
-
 
 
 🎉 CONGRATULATIONS ! 🎉

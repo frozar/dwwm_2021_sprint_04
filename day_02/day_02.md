@@ -155,7 +155,25 @@ const webTechs = [
     rgb(240,180,80)
     ```
 
+## Functions --> Level00
 
+1. Déclarez une fonction _fullName_ qui affiche votre nom complet.
+2. Déclarez une fonction _newFullName_ qui prend firstName, lastName comme paramètre et elle renvoie *return* votre nom complet.
+3. Déclarez une fonction _addNumbers_ qui prend deux deux paramètres et elle renvoie *return* la somme.
+4. Une aire d'un rectangle est calculée comme suit: _area = longueur x largeur_. Ecrivez une fonction qui calcule _areaOfRectangle_.
+5. Le périmètre d'un rectangle est calculé comme suit: _perimeter = 2x (longueur + largeur)_. Ecrivez une fonction qui calcule _perimeterOfRectangle_.
+6. L'aire d'un cercle est calculée comme suit: _area = π x r x r_. Ecrire une fonction qui calcule _areaOfCircle_
+7. La température en C° peut être convertie en F° en utilisant cette formule: _F° = (C° x 9/5) + 32_. Écrivez une fonction qui convertit C° en F°_convertCelciusToFahrenheit_.
+8. Écrivez une fonction appelée _checkSeason_, elle prend un paramètre du mois et renvoie la saison: Automne, Hiver, Printemps ou Été.
+9. Math.max renvoie son plus grand argument. Écrivez une fonction findMax qui prend trois arguments et renvoie leur maximum sans utiliser la méthode Math.max.
+
+    ```js
+    console.log(findMax(0, 10, 5))
+    10
+    console.log(findMax(0, -10, -2))
+    0
+    ```
+  
 🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 1](./day_01/day_01.md) | [Day 3 >>](./day_03/day_03.md)

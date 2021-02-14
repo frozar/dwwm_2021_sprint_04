@@ -246,4 +246,4 @@ const webTechs = [
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 1](./day_01/day_01.md) | [Day 3 >>](./day_03/day_03.md)
+[<< Day 1](../day_01/day_01.md) | [Day 3 >>](../day_03/day_03.md)

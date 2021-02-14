@@ -219,4 +219,4 @@ Vous avez 30 ans.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./day_02/day_02.md)
+[Day 2 >>](../day_02/day_02.md)

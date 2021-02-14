@@ -1,4 +1,4 @@
-# 🌕 Day02: Is loading!
+# 🌕 Day02:
 
 ## Arrays --> Level00
 
@@ -128,40 +128,32 @@ const webTechs = [
    10 x 10 = 100
    ```
 
-6. Utilisez une boucle pour affichez le modèle suivant à l'aide de console.log():
-
-   ```sh
-    i    i^2   i^3
-    0    0     0
-    1    1     1
-    2    4     8
-    3    9     27
-    4    16    64
-    5    25    125
-    6    36    216
-    7    49    343
-    8    64    512
-    9    81    729
-    10   100   1000
-   ```
-
-7. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que des nombres pairs
-8. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres impairs
-9. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres premiers
-10. Utilisez la boucle **for** pour parcourir de 0 à 100 et afficher la somme de tous les nombres.
+6. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que des nombres pairs
+7. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres impairs
+8. Utilisez la boucle **for** pour parcourir de 0 à 100 et n'afficher que les nombres premiers
+9. Utilisez la boucle **for** pour parcourir de 0 à 100 et afficher la somme de tous les nombres.
 
     ```sh
     La somme de tous les nombres de 0 à 100 est 5050.
     ```
 
-11. Utilisez la boucle **for** pour itérer de 0 à 100 et afficher la somme de tous les nombres pairs et la somme de toutes les nombres impairs.
-
-    ```sh
-    La somme de tous les nombres pairs de 0 à 100 est 2550. Et la somme de tous les nombres impairs est 0 à 100 est 2500.
-    ```
-
 ## Loops --> Level01
 
+1. Développez un script qui génère n'importe quel nombre de caractères aléatoire:
+
+    ```sh
+      fe3jo1gl124g
+    ```
+
+    ```sh
+      xkqci4utda1lmbelpkm03rba
+    ```
+    
+2. Ecrivez un script qui génère un numéro de couleur RGB aléatoire. 
+
+    ```sh
+    rgb(240,180,80)
+    ```
 
 
 🎉 CONGRATULATIONS ! 🎉

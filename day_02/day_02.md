@@ -155,7 +155,7 @@ const webTechs = [
     rgb(240,180,80)
     ```
 
-## Functions --> Level00
+## Functions --> Level01
 
 1. Déclarez une fonction _fullName_ qui affiche votre nom complet.
 2. Déclarez une fonction _newFullName_ qui prend firstName, lastName comme paramètre et elle renvoie *return* votre nom complet.
@@ -173,7 +173,77 @@ const webTechs = [
     console.log(findMax(0, -10, -2))
     0
     ```
-  
+  ## Objects --> Level01
+
+1. Créez un objet vide appelé *chien*
+2. Affichez l'objet *chien* sur la console
+3. Ajoutez le nom, les pattes, la couleur, l'âge et les propriétés d'écorce pour l'objet *chien*. La propriété bark est une méthode qui renvoie _woof woof_
+4. Obtenez le nom, les pattes, la couleur, l'âge et la valeur de l'écorce de l'objet *chien*
+5. Définissez les nouvelles propriétés de l'objet *chien*: race, getDogInfo 
+
+  ## Objects --> Level02
+
+1. Trouvez la personne qui possède de nombreuses compétences dans l'objet users.
+2. Comptez les users connectés, comptez les users ayant plus de 50 points de l'objet suivant. 
+
+   ````js
+   const users = {
+     Alex: {
+       email: 'alex@alex.com',
+       skills: ['HTML', 'CSS', 'JavaScript'],
+       age: 20,
+       isLoggedIn: false,
+       points: 30
+     },
+     Asab: {
+       email: 'asab@asab.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'Redux', 'MongoDB', 'Express', 'React', 'Node'],
+       age: 25,
+       isLoggedIn: false,
+       points: 50
+     },
+     Brook: {
+       email: 'daniel@daniel.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux'],
+       age: 30,
+       isLoggedIn: true,
+       points: 50
+     },
+     Daniel: {
+       email: 'daniel@alex.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'Python'],
+       age: 20,
+       isLoggedIn: false,
+       points: 40
+     },
+     John: {
+       email: 'john@john.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Node.js'],
+       age: 20,
+       isLoggedIn: true,
+       points: 50
+     },
+     Thomas: {
+       email: 'thomas@thomas.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'React'],
+       age: 20,
+       isLoggedIn: false,
+       points: 40
+     },
+     Paul: {
+       email: 'paul@paul.com',
+       skills: ['HTML', 'CSS', 'JavaScript', 'MongoDB', 'Express', 'React', 'Node'],
+       age: 20,
+       isLoggedIn: false,
+       points: 40
+     }
+   }```
+
+1. Recherchez des personnes qui sont des développeurs MERN Stack à partir de l'objet users. MERN (MongoDB, Express, React, Node)
+2. Définissez votre nom dans l'objet users sans modifier l'objet utilisateur d'origine
+3. Obtenez toutes les clés ou propriétés de l'objet users
+4. Obtenez toutes les valeurs de l'objet users
+
 🎉 CONGRATULATIONS ! 🎉
 
 [<< Day 1](./day_01/day_01.md) | [Day 3 >>](./day_03/day_03.md)

@@ -20,27 +20,27 @@ const products = [
 1. Expliquez la différence entre **_forEach, map, filter, et reduce_**.
 2. Définissez une fonction d'appel avant de les utiliser dans forEach, map, filter ou reduce.
 3. Utilisez **_forEach_** pour console.log chaque pays du tableau des pays.
-4. Utilisez **_forEach_** pour console.log chaque nom dans le tableau names.
-5. Utilisez **_forEach_** pour console.log chaque nombre dans le tableau de nombres.
+4. **(Facultatitf)** Utilisez **_forEach_** pour console.log chaque nom dans le tableau names.
+5. **(Facultatitf)** Utilisez **_forEach_** pour console.log chaque nombre dans le tableau de nombres.
 6. Utilisez **_map_** pour créer un nouveau tableau en modifiant chaque pays en majuscules dans le tableau des pays.
 7. Utilisez **_map_** pour créer un tableau de longueur de pays à partir du tableau de pays.
-8. Utilisez **_map_**  pour créer un nouveau tableau en changeant chaque nombre en racine carré _Math.sqrt()_ dans le tableau de nombres.
+8. **(Facultatitf)** Utilisez **_map_**  pour créer un nouveau tableau en changeant chaque nombre en racine carré _Math.sqrt()_ dans le tableau de nombres.
 9. Utilisez **_map_** pour changer chaque nom en majuscules dans le tableau des noms
 10. Utilisez **_filter_** pour filtrer les pays contenant **_land_**.
-11. Utilisez **_filter_** pour filtrer les pays comportant six caractères.
+11. **(Facultatitf)** Utilisez **_filter_** pour filtrer les pays comportant six caractères.
 12. Utilisez **_filter_** pour filtrer les pays contenant six lettres et plus dans le tableau des pays.
 13. Utilisez **_filter_** pour filtrer le début du pays par 'E';
-14. Utilisez **_filter_** pour filtrer uniquement les prix avec des valeurs.
+14. **(Facultatitf)** Utilisez **_filter_** pour filtrer uniquement les prix avec des valeurs.
 15. Utilisez **_reduce_** pour additionner tous les nombres du tableau de nombres.
-16. Utilisez **_reduce_** pour concaténer tous les pays et pour produire cette phrase: **_Estonia, Finland, Sweden, Denmark, Norway, and IceLand are north European countries_**
+16. **(Facultatitf)** Utilisez **_reduce_** pour concaténer tous les pays et pour produire cette phrase: **_Estonia, Finland, Sweden, Denmark, Norway, and IceLand are north European countries_**
 17. Expliquez la différence entre **_some_** et **_every_**
 18. Utilisez **_some_** pour vérifier si la longueur de certains noms est supérieure à sept dans le tableau des noms
 19. Utilisez **_every_**  pour vérifier si tous les pays contiennent le mot land
 20. Expliquez la différence entre **_find_** et **_findIndex_**.
 21. Utilisez **_find_** pour trouver le premier pays contenant seulement six lettres dans le tableau des pays.
 22. Utilisez **_findIndex_** pour trouver la position du premier pays contenant seulement six lettres dans le tableau des pays.
-23. Utilisez **_findIndex_** pour trouver la position de **_Norway_** si elle n'existe pas dans le tableau, vous obtiendrez -1.
-24. Utilisez **_findIndex_** pour trouver la position de **_Russia_** si elle n'existe pas dans le tableau, vous obtiendrez -1.
+23. **(Facultatitf)** Utilisez **_findIndex_** pour trouver la position de **_Norway_** si elle n'existe pas dans le tableau, vous obtiendrez -1.
+24. **(Facultatitf)** Utilisez **_findIndex_** pour trouver la position de **_Russia_** si elle n'existe pas dans le tableau, vous obtiendrez -1.
 
 ## Sets and Maps
 
@@ -126,7 +126,7 @@ const users = [
 
 1. Détruire et affecter les éléments du tableau de constantes à e, pi, gravity, humanBodyTemp, waterBoilingTemp.
 2. Détruire et attribuer les éléments du tableau des pays à fin, est, sw, den, nor
-3. Détruire l'objet rectangle par ses propriétés ou ses clés. 
+3. **(Facultatitf)** Détruire l'objet rectangle par ses propriétés ou ses clés. 
 
 ### Exercises: Level 2
 

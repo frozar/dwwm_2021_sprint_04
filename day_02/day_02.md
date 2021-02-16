@@ -15,7 +15,7 @@
 11. Changez le nom de chaque entreprise en majuscules un par un et affichez-les
 12. Affichez le tableau sous forme de phrase: Facebook, Google, Microsoft, Apple, IBM, Oracle et Amazon sont de grandes entreprises d'IT.
 13. Vérifiez si une certaine entreprise existe dans le tableau itCompanies. S'il existe, retournez l'entreprise sinon retournez une société introuvable.
-14. Filtrez les entreprises qui ont plus d'un 'o' sans utiliser la méthode *filter*
+14. **(Facultatif)** Filtrez les entreprises qui ont plus d'un 'o' sans utiliser la méthode *filter*
 15. Trier le tableau en utilisant la méthode sort()
 16. Inversez le tableau en utilisant la méthode reverse()
 17. Découpez les 3 premières entreprises du tableau
@@ -163,9 +163,9 @@ const webTechs = [
 4. Une aire d'un rectangle est calculée comme suit: _area = longueur x largeur_. Ecrivez une fonction qui calcule _areaOfRectangle_.
 5. Le périmètre d'un rectangle est calculé comme suit: _perimeter = 2x (longueur + largeur)_. Ecrivez une fonction qui calcule _perimeterOfRectangle_.
 6. L'aire d'un cercle est calculée comme suit: _area = π x r x r_. Ecrire une fonction qui calcule _areaOfCircle_
-7. La température en C° peut être convertie en F° en utilisant cette formule: _F° = (C° x 9/5) + 32_. Écrivez une fonction qui convertit C° en F°_convertCelciusToFahrenheit_.
-8. Écrivez une fonction appelée _checkSeason_, elle prend un paramètre du mois et renvoie la saison: Automne, Hiver, Printemps ou Été.
-9. Math.max renvoie son plus grand argument. Écrivez une fonction findMax qui prend trois arguments et renvoie leur maximum sans utiliser la méthode Math.max.
+7. **(Facultatif)** La température en C° peut être convertie en F° en utilisant cette formule: _F° = (C° x 9/5) + 32_. Écrivez une fonction qui convertit C° en F°_convertCelciusToFahrenheit_.
+8. **(Faclultatif)** Écrivez une fonction appelée _checkSeason_, elle prend un paramètre du mois et renvoie la saison: Automne, Hiver, Printemps ou Été.
+9. **(Facultatif)** Math.max renvoie son plus grand argument. Écrivez une fonction findMax qui prend trois arguments et renvoie leur maximum sans utiliser la méthode Math.max.
 
     ```js
     console.log(findMax(0, 10, 5))

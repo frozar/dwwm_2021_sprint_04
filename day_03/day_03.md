@@ -56,7 +56,7 @@ const countries = ['Finland', 'Sweden', 'Norway']
 2. Créez un ensemble **set** contenant 0 à 10 en utilisant la boucle
 3. Supprimez un élément d'un ensemble **set**
 4. Effacez un ensemble **set**
-5. Créez un ensemble **set** de 5 éléments de chaîne à partir du tableau
+5. **(Facultatif)** Créez un ensemble **set** de 5 éléments de chaîne à partir du tableau
 6. Créez un dictionnaire **map** des pays et du nombre de caractères d'un pays 
 
 ### Exercises:Level 2

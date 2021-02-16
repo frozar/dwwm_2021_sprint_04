@@ -193,7 +193,7 @@ const txt = `{
 
 1. Stringifier la variable age.
 
-1. Stringifier la variable isMarried.
+1. **(Facultatif)** Stringifier la variable isMarried.
    
 1. Stringifier l'objet student.
 
@@ -204,7 +204,7 @@ const txt = `{
 ### Exercises Level 3
 
 1. Parsez *txt* JSON en objet.
-2. Trouvez l'utilisateur qui a de nombreuses compétences à partir de la variable stockée dans *txt*.
+2. **(Facultatif)** Trouvez l'utilisateur qui a de nombreuses compétences à partir de la variable stockée dans *txt*.
 
 🎉 CONGRATULATIONS ! 🎉
 

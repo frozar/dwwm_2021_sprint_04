@@ -28,8 +28,7 @@ const countriesAPI = 'https://restcountries.eu/rest/v2/all'
 
 ## Closures
 
-Pour comprendre ce qu'est une closure, lire l'article suivant :  
-https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+Pour comprendre ce qu'est une closure, lisez [cet article](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8).
 
 ### Exercises: Level 1
 

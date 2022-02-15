@@ -19,7 +19,7 @@ Chaque jour, vous aurez un défi sur Javascript, vous devez faire de la document
 | [05](./day_05/day_05.md) | Web Storages, Promises, Closure |
 | [06](./day_06/day_06.md) | Modulo, mini projets `Project Euler` et `jeu fizz-buzz` |
 | [07](./day_07/day_07.md) | Formattage de champ d'input, mini projets `numéro de téléphone` et `carte vitale` |
-| [08](./day_08/day_08.md) | Writing Clean Code, BOM & DOM, Manipulating DOM Object, Event Listners |
+| [08](./day_08/day_08.md) | Writing Clean Code, ES6+, BOM & DOM, Manipulating DOM Object, Event Listners |
 | [09](./day_09/day_09.md) | ES06+, Data Structures |
 | [10](./day_10/day_10.md) | Evaluation : Live coding |
 | ** | OOP, AJAX, JQUERY |

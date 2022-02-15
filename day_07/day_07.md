@@ -71,3 +71,4 @@ Le premier champ d'input sera l'endroit où l'utilisateur pourra renseigner son 
 
 Le deuxième champ d'input est un champ désactivé où la clé sera affichée une fois que l'utilisateur aura saisi les 13 premiers chiffres de sa carte vitale.
 
+[<< Day 6](../day_06/day_06.md) | [Day 8 >>](../day_08/day_08.md)

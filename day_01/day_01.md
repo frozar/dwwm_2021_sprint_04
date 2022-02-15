@@ -111,8 +111,8 @@ Vous avez 30 ans.
     2. Quel est le mois aujourd'hui en nombre?
     3. Quelle est la date aujourd'hui?
     4. Quel est le jour aujourd'hui en nombre?
-    5. Quelles sont les heures maintenant?
-    6. Quel est le procès-verbal maintenant?
+    5. Maintenant, quel le nombre d'heure ?
+    6. Maintenant, quel le nombre de minutes ?
     7. Découvrez le nombre de secondes écoulées entre le 1er janvier 1970 et aujourd'hui. 
 
 ### Exercices Aléatoires --> Level02

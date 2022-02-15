@@ -27,7 +27,7 @@ Vous avez 30 ans.
 4. Remplacez tous les caractères de chaîne en majuscules en utilisant la méthode __toUpperCase()__
 5. Remplacez tous les caractères de chaîne par des lettres minuscules en utilisant la méthode __toLowerCase()__
 6. Découpez (slice) le premier mot de la chaîne en utilisant la méthode __substr()__ ou bien __substring()__
-7. Découpez la phrase *Jours en JavaScript* from *10 jours en JavaScript*.
+7. A partir de la chaîne de caractères `10 jours en JavaScript`, écrire le code qui permet d'obtenir la chaîne de caractères `Jours en JavaScript`.
 8. Vérifiez si la chaîne contient un mot __Script__ en utilisant la méthode __includes()__
 9. Divisez la chaine __string__ dans un __array__ en utilisant la méthode __split()__
 10. Divisez la chaine "10 Jours en JavaScript" à l'espace en utilisant la méthode __split()__

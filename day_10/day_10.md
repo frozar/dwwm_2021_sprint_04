@@ -6,4 +6,6 @@ Les exercices proposées pour la réalisation des [live coding](https://info.pin
 
 <!-- https://codepen.io/chris-chen-nbcuni/pen/pobLNB -->
 
+🎉 CONGRATULATIONS ! 🎉
+
 [<< Day 9](../day_09/day_09.md)

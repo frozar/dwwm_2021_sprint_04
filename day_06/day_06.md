@@ -31,4 +31,6 @@ Le jeu fizz-buzz est un jeu qui n'a pas besoin de support (carte, plateau, dès,
 
 Créez une application web qui permet de simuler une partie de fizz-buzz. Si vous manquez d'inspiration, vous pouvez visionner cette [vidéo](https://www.youtube.com/watch?v=nbSaq_ykOl4) qui illustre le développement selon la méthode [TDD (Test Driven Development)](https://fr.wikipedia.org/wiki/Test_driven_development).
 
+🎉 CONGRATULATIONS ! 🎉
+
 [<< Day 5](../day_05/day_05.md) | [Day 7 >>](../day_07/day_07.md)

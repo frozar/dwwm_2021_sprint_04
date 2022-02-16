@@ -27,4 +27,6 @@ Lisez [cette article](https://webboy.fr/formation/course/view.php?id=83#section-
 
 Construisez des exemples représentatifs de la notion exposée pour chaque section de l'article.
 
+🎉 CONGRATULATIONS ! 🎉
+
 [<< Day 7](../day_07/day_07.md) | [Day 9 >>](../day_09/day_09.md)

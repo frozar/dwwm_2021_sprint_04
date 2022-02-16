@@ -154,12 +154,12 @@ Vous avez 30 ans.
 ### Exercices Aléatoires --> Level03
 
 1. Créez un format d'heure lisible par l'homme à l'aide de l'objet Date time. L'heure et la minute doivent être toujours à deux chiffres (7 heures devraient être 07 et 5 minutes devraient être 05)
-   1. YYY-MM-DD HH:mm eg. 20120-01-02 07:05
+   1. YYYY-MM-DD HH:mm eg. 2020-01-02 07:05
 
 
 ### Exercices Aléatoires --> Level04
 
-1. Si a est supérieur à b return 'a est superieur à b' sinon 'a est inferieur à b'. Utilisez deux méthodes
+1. Si a est supérieur à b, affichez 'a est superieur à b', sinon affichez 'a est inferieur à b'. Utilisez deux méthodes
     - if  else
     - ternary operator.
 
@@ -172,7 +172,7 @@ Vous avez 30 ans.
       4 est supérieur à 3
     ```
 
-2. Les nombres pairs sont divisibles par 2 et le reste est zéro. Comment vérifier si un nombre est pair ou n'utilise pas JavaScript?
+2. Les nombres pairs sont divisibles par 2 et le reste est zéro. Comment vérifier si un nombre est pair ou impair en JavaScript?
 
     ```sh
     Enter un nombre: 2
@@ -193,10 +193,10 @@ Vous avez 30 ans.
 
 2. Vérifiez si la saison est l'automne, l'hiver, le printemps ou l'été. 
     Si l'entrée utilisateur est:
-        - Septembre, octobre ou novembre, la saison est l'automne.
-        - Décembre, janvier ou février, la saison est l'hiver.
-        - Mars, avril ou mai, la saison est le printemps
-        - Juin, juillet ou août, la saison est l'été 
+        - `septembre`, `octobre` ou `novembre`, la saison est l'automne.
+        - `décembre`, `janvier` ou `février`, la saison est l'hiver.
+        - `mars`, `avril` ou `mai`, la saison est le printemps
+        - `juin`, `juillet` ou `août`, la saison est l'été
 
 ### Exercices Aléatoires --> Level03
 

@@ -1,6 +1,6 @@
 # 🌕 Day02:
 
-## Arrays --> Level00
+## Arrays: Level00
 
 1. Déclarez un tableau vide.
 2. Déclarez un tableau avec plus de 5 éléments.
@@ -9,7 +9,7 @@
 5. Déclarez un tableau appelé `mixedDataTypes`, placez différents types de données dans le tableau et recherchez la longueur du tableau. La taille du tableau doit être supérieure à 5.
 6. Déclarez un tableau nommé `itCompanies` et attribuez les valeurs initiales: `Facebook`, `Google`, `Microsoft`, `Apple`, `IBM`, `Oracle` et `Amazon`.
 7. Affichez le tableau avec console.log().
-8. Affichez le nombre d'entreprise dans le tableau `itCompanies`.
+8. Affichez le nombre d'élément qu'il y a dans le tableau `itCompanies`.
 9. Affichez la première entreprise, l'entreprise du milieu de tableau et la dernière entreprise.
 10. Affichez chaque entreprise.
 11. Mettez le nom des entreprises en majuscule, un par un, et affichez-les
@@ -26,7 +26,7 @@
 22. Supprimez le dernier élément du tableau `itCompanies` en utilisant la méthode splice()
 23. Supprimez tous les éléments du tableau `itCompanies`.
 
-## Arrays --> Level01
+## Arrays: Level01
 
 ```js
 // countries.js
@@ -102,7 +102,7 @@ const webTechs = [
     ```sh
     ["HTML", "CSS", "JS", "VueJs", "VueX", "Node", "Express", "MongoDB"]
     ```
-## Loops --> Level00
+## Loops: Level00
 
 1. Itérer de 0 à 10 en utilisant la boucle **for**, **while** et **do while**
 2. Itérez 10 à 0 en utilisant la boucle **for**, **while** et **do while**
@@ -144,7 +144,7 @@ const webTechs = [
     La somme de tous les nombres de 0 à 100 est 5050.
     ```
 
-## Loops --> Level01
+## Loops: Level01
 
 1. Développez un script qui génère n'importe quel nombre de caractères aléatoire:
 
@@ -162,7 +162,7 @@ const webTechs = [
     rgb(240,180,80)
     ```
 
-## Functions --> Level01
+## Functions: Level01
 
 1. Déclarez une fonction _fullName_ qui affiche votre nom complet.
 2. Déclarez une fonction _newFullName_ qui prend firstName, lastName comme paramètre et elle renvoie *return* votre nom complet.
@@ -179,7 +179,7 @@ const webTechs = [
     console.log(findMax(0, -10, -2))
     0
     ```
-  ## Objects --> Level01
+  ## Objects: Level01
 
 1. Créez un objet vide appelé *chien*
 2. Affichez l'objet *chien* sur la console
@@ -187,7 +187,7 @@ const webTechs = [
 4. Obtenez le nom, les pattes, la couleur, l'âge et la valeur de l'écorce de l'objet *chien*
 5. Définissez les nouvelles propriétés de l'objet *chien*: race, getDogInfo 
 
-  ## Objects --> Level02
+  ## Objects: Level02
 
 1. Trouvez la personne qui possède de le plus compétences dans l'objet `users` ci-dessous.
 2. Comptez les users connectés, comptez les users ayant plus de 50 points de l'objet suivant. 

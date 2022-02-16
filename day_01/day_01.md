@@ -68,7 +68,7 @@ Vous avez 30 ans.
 7. Générer un nombre aléatoire entre 0 et 100 inclusivement.
 8. Générer un nombre aléatoire entre 50 et 100 inclusivement.
 9. Générez un nombre aléatoire compris entre 0 et 255 inclusivement. 
-10. Utilisez __substr__ pour slicer la phrase __because because because__ de la phrase suivante: __'You cannot end a sentence with because because because is a conjunction'__
+10. Utilisez la méthode `substr()` pour extraire la chaine de caractère "because because because" de la phrase suivante: "You cannot end a sentence with because because because is a conjunction"
 
 ### Boolean & Dates --> Level01
 

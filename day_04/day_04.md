@@ -2,21 +2,31 @@
 
 ## Console Object Methods
 
-### Exercises:Level 1
+```js
+const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'IceLand']
+const user = {
+  name:'Brook',
+  scores:75,
+  skills:['HTM', 'CSS', 'JS'],
+  age:16
+};
+```
 
-1. Affichez le tableau des pays sous forme de tableau.
-2. Affichez l'objet pays sous forme de tableau.
-3. Utilisez _console.group()_ pour regrouper les journaux.
+### Exercises: Level 1
 
-### Exercises:Level 2
+1. Utilisez `console.table()` pour afficher le tableau des pays, `countries`, sous forme de tableau ().
+2. Utilisez `console.table()` pour afficher l'objet `user` sous forme de tableau.
+3. Utilisez `console.group()` pour regrouper les affichages.
 
-1. 10 > 2 \* 10 utilisez _console.assert()_
-2. Ecrivez un message d'avertissement en utilisant _console.warn()_
-3. Écrivez un message d'erreur en utilisant _console.error()_
+### Exercises: Level 2
+
+1. Utilisez `console.assert()` sur l'expression `10 > ( 2 * 10 )` et affichez le message d'erreur "Cette expression n'est pas vraie".
+2. Ecrivez le message d'avertissement "Fait gaffe !" en utilisant `console.warn()`.
+3. Écrivez le message d'erreur "Cela ne fonctionne point !" en utilisant `console.error()`.
 
 ## Error handling
 
-Voir la documentation sur [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/try...catch)
+Lisez la documentation sur [MDN pour les instructions try...catch](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/try...catch)
 
 ```js
 try {
@@ -27,6 +37,10 @@ try {
   // code to be executed regardless of an error occurs or not
 }
 ```
+
+- Uncaught ReferenceError
+
+Sur l'exemple suivant, utilisez les block `try`, `catch` pour afficher un message personnalisé lors du traitement de l'erreur `Uncaught ReferenceError`.
 
 ```js
 let firstName = 'Aymane'
@@ -42,6 +56,8 @@ Uncaught ReferenceError: lastName is not defined
 
 - SyntaxError: A syntax error has occurred
 
+Sur l'exemple suivant, utilisez les block `try`, `catch` pour afficher un message personnalisé lors du traitement de l'erreur `Uncaught SyntaxError`.
+
 ```js
 let sqrt = 2 x 2
 console.log(sqrt)
@@ -55,6 +71,8 @@ Uncaught SyntaxError: Unexpected identifier
 
 - TypeError: A type error has occurred
 
+Sur l'exemple suivant, utilisez les block `try`, `catch` pour afficher un message personnalisé lors du traitement de l'erreur `Uncaught TypeError`.
+
 ```js
 let num = 10
 console.log(num.toLowerCase())
@@ -65,31 +83,50 @@ Uncaught TypeError: num.toLowerCase is not a function
     at <anonymous>:2:17
 ```
 
-## Classes
+<!-- ## Classes
 
-### Exercises Level 1
+### Exercises: Level 1
 
 1. Créez une classe Animal. La classe aura les propriétés le nom (name), l'âge (age), la couleur (color), des jambes (legs) et créez différentes méthodes
 2. Créez une classe enfant Dog et Cat à partir de la classe Animal. 
 
-### Exercises Level 2
+### Exercises: Level 2
 
-1. [Override] la méthode que vous créez dans la classe Animal.
+1. [Override] la méthode que vous créez dans la classe Animal. -->
 
 ## JSON
 
 ```js
-const skills = ['HTML', 'CSS', 'JS', 'React','Node', 'Python']
+const skills = ['HTML', 'CSS', 'JS', 'React','Node', 'Python'];
 let age = 250;
-let isMarried = true
+let isMarried = true;
 const student = {
   firstName:'Asabeneh',
   lastName:'Yetayehe',
   age:250,
   isMarried:true,
   skills:['HTML', 'CSS', 'JS', 'React','Node', 'Python', ]
-}
-const txt = `{
+};
+```
+
+### Exercises: Level 1
+
+1. A l'aide de la fonction `JSON.stringify()`, transformer le tableau `skills` en JSON.
+
+2. A l'aide de la fonction `JSON.stringify()`, stringifier la variable `age`.
+
+3. **(Facultatif)** A l'aide de la fonction `JSON.stringify()`, stringifier la variable `isMarried`.
+   
+4. A l'aide de la fonction `JSON.stringify()`, stringifier l'objet `student`.
+
+### Exercises: Level 2
+
+1.  A l'aide de la fonction `JSON.stringify()`, stringifier l'objet `student` en conservant uniquement les propriétés : `firstName`, `lastName` et `skills`.
+
+### Exercises: Level 3
+
+```js
+const txt = {
     "Alex": {
         "email": "alex@alex.com",
         "skills": [
@@ -184,24 +221,7 @@ const txt = `{
         "points": 40
     }
 }
-`
 ```
-
-### Exercises Level 1
-
-1. Changer le tableau des skills en JSON en utilisant _JSON.stringify()_
-
-1. Stringifier la variable age.
-
-1. **(Facultatif)** Stringifier la variable isMarried.
-   
-1. Stringifier l'objet student.
-
-### Exercises Level 2
-
-1. Stringifier l'objet students seulement avec les propriétés: firstName, lastName et skills.
-
-### Exercises Level 3
 
 1. Parsez *txt* JSON en objet.
 2. **(Facultatif)** Trouvez l'utilisateur qui a de nombreuses compétences à partir de la variable stockée dans *txt*.

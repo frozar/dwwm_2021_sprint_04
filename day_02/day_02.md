@@ -192,7 +192,7 @@ const webTechs = [
 1. Trouvez la personne qui possède de le plus compétences dans l'objet `users` ci-dessous.
 2. Comptez les users connectés, comptez les users ayant plus de 50 points de l'objet suivant. 
 
-   ````js
+   ```js
    const users = {
      Alex: {
        email: 'alex@alex.com',
@@ -244,7 +244,7 @@ const webTechs = [
        points: 40
      }
    }
-```
+   ```
 
 3. Recherchez des personnes qui sont des développeurs MERN Stack à partir de l'objet users. MERN signifiant MongoDB, Express, React, Node.
 4. Définissez votre nom dans l'objet users sans modifier l'objet utilisateur d'origine

@@ -14,7 +14,7 @@ const user = {
 
 ### Exercises: Level 1
 
-1. Utilisez `console.table()` pour afficher le tableau des pays, `countries`, sous forme de tableau ().
+1. Utilisez `console.table()` pour afficher le tableau des pays, `countries`, sous forme de tableau.
 2. Utilisez `console.table()` pour afficher l'objet `user` sous forme de tableau.
 3. Utilisez `console.group()` pour regrouper les affichages.
 
@@ -223,8 +223,8 @@ const txt = {
 }
 ```
 
-1. Parsez *txt* JSON en objet.
-2. **(Facultatif)** Trouvez l'utilisateur qui a de nombreuses compétences à partir de la variable stockée dans *txt*.
+1. A l'aide de la fonction `JSON.stringify()`, transformez l'objet `txt` en JSON.
+2. **(Facultatif)** Trouvez l'utilisateur qui a le plus de compétences parmi les champs de personne défini dans `txt`.
 
 🎉 CONGRATULATIONS ! 🎉
 

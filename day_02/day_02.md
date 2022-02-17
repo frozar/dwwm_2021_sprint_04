@@ -106,7 +106,7 @@ const webTechs = [
 
 1. Itérer de 0 à 10 en utilisant la boucle **for**, **while** et **do while**
 2. Itérez 10 à 0 en utilisant la boucle **for**, **while** et **do while**
-3. Itérer 0 à n en utilisant la boucle **for**
+3. Créez et initialisez une variable `n` avec un entier positif. Itérer de 0 à `n` en utilisant la boucle **for**
 4. Écrivez une boucle qui crée le modèle suivant à l'aide de console.log(): 
 
    ```js

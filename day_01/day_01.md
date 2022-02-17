@@ -63,7 +63,7 @@ Vous avez 30 ans.
 
 3. Vérifiez si typeof '10' est exactement égal à 10. Sinon, rendez-le exactement égal.
 4. Vérifiez si parseFloat('9.8') est exactement égal à 10 if not make it exactly equal with 10.
-5. Vérifiez si 'on' is found in both python and jargon
+5. Vérifiez si "on" se trouve  à la fois dans "python" et "jargon"
 6. _I hope this course is not full of jargon_. Vérifiez si _jargon_ est dans la chaine.
 7. Générer un nombre aléatoire entre 0 et 100 inclusivement.
 8. Générer un nombre aléatoire entre 50 et 100 inclusivement.

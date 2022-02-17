@@ -243,7 +243,8 @@ const webTechs = [
        isLoggedIn: false,
        points: 40
      }
-   }```
+   }
+```
 
 3. Recherchez des personnes qui sont des développeurs MERN Stack à partir de l'objet users. MERN signifiant MongoDB, Express, React, Node.
 4. Définissez votre nom dans l'objet users sans modifier l'objet utilisateur d'origine

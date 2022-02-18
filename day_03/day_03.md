@@ -51,11 +51,11 @@ const countries = ['Finland', 'Iceland', 'Norway', 'Sweden',
                    'Sweden', 'Norway', 'IceLand', 'Finland']
 ```
 
-1. Créez un ensemble vide **set**
-2. Créez un ensemble **set** contenant les entiers de 0 à 10 en utilisant une boucle
-3. Supprimez un élément d'un ensemble **set**
-4. Effacez un ensemble **set**
-5. **(Facultatif)** Créez un ensemble **set** de 5 éléments de chaîne à partir du tableau `countries`
+1. Créez un ensemble vide **Set**
+2. Créez un ensemble **Set** contenant les entiers de 0 à 10 en utilisant une boucle
+3. Supprimez un élément d'un ensemble **Set**
+4. Effacez un ensemble **Set**
+5. **(Facultatif)** Créez un ensemble **Set** de 5 éléments de chaîne à partir du tableau `countries`
 6. Créez un dictionnaire **map** avec comme clés les pays et en valeur le nombre de caractères du pays associé
 
 ### Exercises: Level 2

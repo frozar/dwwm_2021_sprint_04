@@ -29,14 +29,14 @@ Vous avez 30 ans.
 6. Découpez (slice) le premier mot de la chaîne en utilisant la méthode __substr()__ ou bien __substring()__
 7. A partir de la chaîne de caractères `10 jours en JavaScript`, écrire le code qui permet d'obtenir la chaîne de caractères `Jours en JavaScript`.
 8. Vérifiez si la chaîne contient un mot __Script__ en utilisant la méthode __includes()__
-9. Divisez la chaine __string__ dans un __array__ en utilisant la méthode __split()__
-10. Divisez la chaine "10 Jours en JavaScript" à l'espace en utilisant la méthode __split()__
-11. 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' __split__ divisez la chaîne à la virgule et changez-la en tableau.
-12. Changez 10 Jours en JavaScript à 10 Jours en PHP en utilisant la méthode __replace()__ .
-13. Qu'est-ce que le caractère à l'index 15 dans la chaine "10 Jours en JavaScript"? Utilisez la méthode __charAt()__ .
-14. Quel est le code de caractère de J dans la chaine '10 Jours en JavaScript' en utilisant __charCodeAt()__
-15. Utilisez __indexOf__ pour déterminer la position de la première occurrence de __a__ dans 10 Jours en JavaScript
-16. Utilisez __lastIndexOf__ pour déterminer la position de la dernière occurrence de __a__ dans 10 Jours en JavaScript.
+9. Divisez la chaine "string" en utilisant la méthode `split()` avec la chaine vide comme argument
+10. Divisez la chaine "10 Jours en JavaScript" en utilisant la méthode `split()` avec le caractère *espace* comme séparateur
+11. Divisez la chaine "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" en utilisant la méthode `split()` avec le caractère *espace* comme séparateur
+12. Transformez "10 Jours en JavaScript" en "10 Jours en PHP" en utilisant la méthode `replace()`
+13. Quel est le caractère à l'index 15 dans la chaine "10 Jours en JavaScript"? Utilisez la méthode `charAt()`
+14. Quel est le code de caractère de J dans la chaine "10 Jours en JavaScript" en utilisant `charCodeAt()`
+15. Utilisez `indexOf()` pour déterminer la position de la première occurrence de __a__ dans 10 Jours en JavaScript
+16. Utilisez __lastIndexOf__ pour déterminer la position de la dernière occurrence de __a__ dans "10 Jours en JavaScript"
 17. Utilisez __indexOf__ pour trouver la position de la première occurrence du mot __parceque__ dans la phrase suivante:__'Vous ne pouvez pas terminer une phrase avec parceque parceque c'est une conjonction'__
 18. Utilisez __lastIndexOf__ pour trouver la position de la dernière occurrence du mot __parceque__ dans la phrase suivante:__'Vous ne pouvez pas terminer une phrase avec parceque parceque c'est une conjonction'__
 19. Utilisez __search__ pour trouver la position de la première occurrence du mot __parceque__ dans la phrase suivante:__'Vous ne pouvez pas terminer une phrase avec parceque parceque c'est une conjonction'__

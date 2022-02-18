@@ -51,12 +51,12 @@ const countries = ['Finland', 'Iceland', 'Norway', 'Sweden',
                    'Sweden', 'Norway', 'IceLand', 'Finland']
 ```
 
-1. Créez un ensemble vide **Set**
+1. Créez un ensemble vide [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 2. Créez un ensemble **Set** contenant les entiers de 0 à 10 en utilisant une boucle
 3. Supprimez un élément d'un ensemble **Set**
 4. Effacez un ensemble **Set**
 5. **(Facultatif)** Créez un ensemble **Set** de 5 éléments de chaîne à partir du tableau `countries`
-6. Créez un dictionnaire **map** avec comme clés les pays et en valeur le nombre de caractères du pays associé
+6. Créez un dictionnaire [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) avec comme clés les pays et en valeur le nombre de caractères du pays associé
 
 ### Exercises: Level 2
 

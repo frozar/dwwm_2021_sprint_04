@@ -65,6 +65,8 @@ const a = new Set([4, 5, 8, 9]);
 const b = new Set([3, 4, 5, 7]);
 ```
 
+Nhésitez pas à consulter [la documentation](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Set#it%C3%A9rer_sur_des_ensembles_set) pour vous familiariser avec la manipulation des ensembles.
+
 1. Calculer l'union de `a` et `b`
 2. Calculer l'intersection entre `a` et `b`
 

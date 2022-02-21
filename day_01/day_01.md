@@ -61,7 +61,7 @@ Vous avez 30 ans.
     "Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."
     ```
 
-3. Vérifiez si typeof '10' est exactement égal à 10. Sinon, rendez-le exactement égal.
+3. Vérifiez si `typeof '10'` est exactement égal à `typeof 10`. Sinon, rendez-le exactement égal.
 4. Vérifiez si parseFloat('9.8') est exactement égal à 10 if not make it exactly equal with 10.
 5. Vérifiez si "on" se trouve  à la fois dans "python" et "jargon"
 6. _I hope this course is not full of jargon_. Vérifiez si _jargon_ est dans la chaine.

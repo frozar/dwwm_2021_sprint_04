@@ -59,10 +59,7 @@ Uncaught ReferenceError: lastName is not defined
 Sur l'exemple suivant, utilisez les block `try`, `catch` pour afficher un message personnalisé lors du traitement de l'erreur `Uncaught SyntaxError`.
 
 ```js
-let sqrt = 2 x 2
-console.log(sqrt)
-
-console.log('Hello, world")
+eval('hoo bar');
 ```
 
 ```sh

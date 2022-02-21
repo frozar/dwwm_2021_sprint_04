@@ -61,8 +61,8 @@ const countries = ['Finland', 'Iceland', 'Norway', 'Sweden',
 ### Exercises: Level 2
 
 ```js
-const a = {4, 5, 8, 9}
-const b = {3, 4, 5, 7}
+const a = new Set([4, 5, 8, 9]);
+const b = new Set([3, 4, 5, 7]);
 ```
 
 1. Calculer l'union de `a` et `b`

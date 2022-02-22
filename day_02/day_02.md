@@ -183,9 +183,9 @@ const webTechs = [
 
 1. Créez un objet vide appelé *chien*
 2. Affichez l'objet *chien* sur la console
-3. Ajoutez le nom, les pattes, la couleur, l'âge et les propriétés d'écorce pour l'objet *chien*. La propriété bark est une méthode qui renvoie _woof woof_
-4. Obtenez le nom, les pattes, la couleur, l'âge et la valeur de l'écorce de l'objet *chien*
-5. Définissez les nouvelles propriétés de l'objet *chien*: race, getDogInfo 
+3. Ajoutez les propriétés `nom`, `pattes`, `couleur`, `age` et `bark` pour l'objet *chien*. La propriété `bark` est une méthode qui renvoie "woof woof"
+4. Obtenez la valeur des différentes clés `nom`, `pattes`, `couleur`, `age` et `bark` de l'objet *chien*
+5. Définissez les nouvelles propriétés de l'objet *chien*: `race`, `getDogInfo`
 
   ## Objects: Level02
 
